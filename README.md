@@ -1,5 +1,5 @@
 ### Hi there, I'm Uğur Eren,
-A self-taught 19 years old React Native Developer from Turkey.
+I'm a self-taught React Native Developer from Turkey.
 
 **Languages & Frameworks:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

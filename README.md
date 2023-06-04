@@ -1,5 +1,5 @@
 ### Hi there, I'm Uğur Eren,
-I'm a self-taught React Native Developer from Turkey.
+I'm a self-taught all things TypeScript Developer who mostly enjoys React Native.
 
 #### Languages & Frameworks:
 

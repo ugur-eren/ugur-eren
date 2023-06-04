@@ -1,7 +1,7 @@
 ### Hi there, I'm Uğur Eren,
 I'm a self-taught React Native Developer from Turkey.
 
-**Languages & Frameworks:**
+#### Languages & Frameworks:
 
 <div>
   <img height="20" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
@@ -18,4 +18,20 @@ I'm a self-taught React Native Developer from Turkey.
 
 <img height="100" alt="Languages" src="https://user-images.githubusercontent.com/86152092/200574197-a4830315-3f8a-45c4-a718-1bab325795e4.png" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ugur-eren&show_icons=true&hide=["issues"])
+![Stats](https://github-readme-stats.vercel.app/api?username=ugur-eren&theme=transparent&show_icons=true&hide=issues)
+
+
+#### Projects I'm working on
+
+[![SveJ](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=svej&theme=transparent&range=all_time)](https://github.com/ugur-eren/svej)
+
+[![React ETHooks](https://github-readme-stats.vercel.app/api/pin/?username=incirlabs&repo=react-ethooks&theme=transparent&range=all_time)](https://github.com/incirlabs/react-ethooks)
+[![TonClubs](https://github-readme-stats.vercel.app/api/pin/?username=TonClubs&repo=tonclubs-bot&theme=transparent&range=all_time)](https://github.com/TonClubs)
+
+
+#### Old | Unmaintained | Archived projects
+
+[![React Infima](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=react-infima&theme=transparent&range=all_time)](https://github.com/ugur-eren/react-infima)
+[![Sib0p](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=sib0p&theme=transparent&range=all_time)](https://github.com/ugur-eren/sib0p)
+[![Election Counter](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=election-counter&theme=transparent&range=all_time)](https://github.com/ugur-eren/election-counter)
+[![TinyRaffle](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=tinyraffle&theme=transparent&range=all_time)](https://github.com/ugur-eren/tinyraffle)

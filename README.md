@@ -16,7 +16,10 @@ I'm a self-taught all things TypeScript Developer who mostly enjoys React Native
   <img height="20" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
 </div>
 
-<img height="100" alt="Languages" src="https://user-images.githubusercontent.com/86152092/200574197-a4830315-3f8a-45c4-a718-1bab325795e4.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ugur-eren/ugur-eren/assets/86152092/79459bea-2667-43c6-a5cf-843171bbc197">
+  <img height="150" alt="Languages" src="https://github.com/ugur-eren/ugur-eren/assets/86152092/f6ef1d6e-e6ec-4443-b308-12beff648b63">
+</picture>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ugur-eren&theme=transparent&show_icons=true&hide=issues)
 

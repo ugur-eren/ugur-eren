@@ -28,13 +28,11 @@ I'm a self-taught all things TypeScript Developer who mostly enjoys React Native
 
 [![SveJ](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=svej&theme=transparent&range=all_time)](https://github.com/ugur-eren/svej)
 
+#### Old | Unmaintained | Archived projects | Projects I'm no longer part of
+
+[![snAAps](https://github-readme-stats.vercel.app/api/pin/?username=incirLabs&repo=snaaps&theme=transparent&range=all_time)](https://github.com/incirlabs/snaaps)
 [![React ETHooks](https://github-readme-stats.vercel.app/api/pin/?username=incirlabs&repo=react-ethooks&theme=transparent&range=all_time)](https://github.com/incirlabs/react-ethooks)
 [![TonClubs](https://github-readme-stats.vercel.app/api/pin/?username=TonClubs&repo=tonclubs-bot&theme=transparent&range=all_time)](https://github.com/TonClubs)
-
-
-#### Old | Unmaintained | Archived projects
-
 [![React Infima](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=react-infima&theme=transparent&range=all_time)](https://github.com/ugur-eren/react-infima)
 [![Sib0p](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=sib0p&theme=transparent&range=all_time)](https://github.com/ugur-eren/sib0p)
-[![Election Counter](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=election-counter&theme=transparent&range=all_time)](https://github.com/ugur-eren/election-counter)
 [![TinyRaffle](https://github-readme-stats.vercel.app/api/pin/?username=ugur-eren&repo=tinyraffle&theme=transparent&range=all_time)](https://github.com/ugur-eren/tinyraffle)

@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">U&#287;ur Eren's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 275, Total Commits  : 1957, Total PRs: 149, Total Issues: 35, PRs Reviewed: 36, Issues Commented: 66</desc>
+        <desc id="descId">Total Stars Earned: 275, Total Commits  : 1986, Total PRs: 150, Total Issues: 35, PRs Reviewed: 36, Issues Commented: 66</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.33898713181277;
+        stroke-dashoffset: 66.01464632211484;
       }
     }
   
@@ -192,7 +192,7 @@
         x="174.01"
         y="12.5"
         data-testid="prs"
-      >149</text>
+      >150</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
